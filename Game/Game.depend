@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1551987545 source:c:\users\manishbainsla\desktop\desktop - content\oops lab\game - tik tok toe\game\main.cpp
+	"main.hpp"
+
+1551986642 c:\users\manishbainsla\desktop\desktop - content\oops lab\game - tik tok toe\game\main.hpp
+	<iostream>
+
+1552068485 source:c:\users\manishbainsla\desktop\desktop - content\oops lab\game - tik tak toe\game\main.cpp
+	"header.hpp"
+
+1552068825 c:\users\manishbainsla\desktop\desktop - content\oops lab\game - tik tak toe\game\header.hpp
+	<iostream>
+	<cstdlib>
+
