@@ -17,7 +17,7 @@ This is famous game name Tick-Cross game.
 
 ### What diffrent did i do in this Project 
 
-I created a new Header file and included that in "main.cpp" so the harder part was to choose what should be in "main.cpp" and what should be in "main.hpp"
+I created a new Header file and included that in "main.cpp" so the Coolest part was to choose what should be in "main.cpp" and what should be in "main.hpp"
 
 ### Thanks
 
